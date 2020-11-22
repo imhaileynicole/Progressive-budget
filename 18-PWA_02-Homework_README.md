@@ -1,4 +1,4 @@
-# Unit 18 PWA Homework: Online/Offline Budget Trackers
+# Progressive Budget 
 
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 
@@ -51,11 +51,7 @@ THEN that will be shown on the page, and added to their transaction history when
 
 * We would like you to have well over 200 commits by graduation, so commit early and often!
 
-## Submission on BCS
-
-* You are required to submit the following:
-
-  * the URL to the deployed application
-
-  * the URL to the Github repository
-
+ ![](https://avatars1.githubusercontent.com/u/66336162?s=460&u=ccfd81b295fdd0741f792fc0656e043c7aaf9f63&v=4)
+  # Hailey Parker
+  ### [E-mail Me Here!](Hailey.parker@yahoo.com)
+---
